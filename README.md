@@ -1,5 +1,7 @@
-## Mike Chilson
-#### Hi, and welcome to my github repository.
+### Mike Chilson
+#### Hi, and welcome to my Github repository. I reside in Birmingham, AL and am a freelance developer. I specialize in Ruby, PHP, R, and PROLOG. Most of the code here is my personal experimentation with various languages, algorithms, and tools.
+<hr />
+
 
 
 
