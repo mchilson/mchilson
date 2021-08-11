@@ -1,6 +1,6 @@
 ## Mike Chilson
-### Hi, and welcome to my github repository.
-<hr />
+#### Hi, and welcome to my github repository.
+
 
 
 - 👋 Hi, I’m @mchilson
